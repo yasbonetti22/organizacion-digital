@@ -53,6 +53,11 @@ Ayudarte a optimizar tu tiempo y productividad utilizando herramientas accesible
 ¿Tienes preguntas o sugerencias? No dudes en contactarme.
 
 ---
+## Diagrama del Flujo de Trabajo Digital
+
+Este es el diagrama que representa el flujo de trabajo digital utilizado en este proyecto:
+
+![Flujo de Trabajo Digital](assets/flujo_de_trabajo_digital.drawio.png)
 
 ¡Gracias por visitar este proyecto! 💻 Espero que encuentres inspiración para transformar tu productividad digital.
 
